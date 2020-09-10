@@ -1,4 +1,5 @@
 # SANSUNG PRISM [READING MATERIAL]
+<img src="images/Samsung.png" width=300>
 
 ## This project is for the related reading material
 
@@ -8,7 +9,7 @@
 - Clone your forked repository to your pc
 - Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` and `git checkout -b new-user`)
 - Add your file or document in `/`
-- Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
+- Add your files (`git add -A`), commit (`git commit -m "addedfile"`) and push (`git push origin new-user`)
 - Create a pull request
 
 # How to make your first Pull Request
