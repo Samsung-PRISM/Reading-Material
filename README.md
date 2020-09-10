@@ -21,9 +21,10 @@ Replace `<TITLE>` with the reading material title in this guide. ie: `Deep Learn
 ## 1. Add your file to the Index
 
 Add a file or doc of your choice in `/`. Accepted files are **docx** and **pdf**
+After addin the file in the root, update the index in `README.md` with the following naming convention
 
 ```
-<TITLE> <FILE NAME>
+<TITLE> (<FILE NAME>)
 ```
 
 _Be aware, this file wile be displayed in the main repository after merge!_
