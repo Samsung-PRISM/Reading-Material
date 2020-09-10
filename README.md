@@ -1,5 +1,6 @@
+<img src="images/samsung2.png" width=400>
+
 # SANSUNG PRISM [READING MATERIAL]
-<img src="images/Samsung.png" width=300>
 
 ## This project is for the related reading material
 
